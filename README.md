@@ -1,6 +1,6 @@
-# ARTEMIS - TheWebConf24
+# ARTEMIS - Reproduce
 
-The repo is for the paper "ARTEMIS: Detecting Airdrop Hunters in NFT Markets with a Graph Learning System" accepted at The Web Conference 2024 (WWW'24).
+The repo is a fork of the original repo for the paper "ARTEMIS: Detecting Airdrop Hunters in NFT Markets with a Graph Learning System" accepted at The Web Conference 2024 (WWW'24). **This repo is used for research and educational for repoducing the experiment result.**
  
 ## Abstract
 
